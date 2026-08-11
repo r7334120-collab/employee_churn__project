@@ -96,3 +96,45 @@ The Streamlit application allows users to enter employee details such as:
 - Marital Status
 
 The application processes the entered information and returns a prediction along with the estimated probability of employee attrition.
+
+##
+
+Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Joblib
+
+Streamlit
+
+Spyder
+
+GitHub
+
+##
+
+Project Structure
+
+text
+
+employee_churn_project/
+
+app.py
+
+projectl.py
+
+logistic_model.pkl
+
+scaler.pkl
+
+- feature_columns.pkl
+
+README.nd
+
+gitattributes
