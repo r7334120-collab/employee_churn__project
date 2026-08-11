@@ -162,10 +162,12 @@ streamlit run app.py
 ##MODEL EVALUATION-
 
 Models were evaluated using:
-ACCURACY
-PRECISION
-RECALL
-Fl Score
+
+1. ACCURACY
+2. PRECISION
+3. RECALL
+4. Fl Score
+
 Logistic Regression was selected as the final model for deployment
 
 ##DEPLOYMENT-
@@ -179,24 +181,26 @@ employeechurnproject-htxojb33ha2yyxrsffum4e.streamlit.app
 
 ##FUTURE IMPROVEMENTS
 
-Possible improvements include:
+1. Possible improvements include:
 
-Hyperparameter tuning
+2. Hyperparameter tuning
 
-Trying additional ML algorithms
+3. Trying additional ML algorithms
 
-Improving model performance
+4. Improving model performance
 
-Adding visual analytics and charts
+5. Adding visual analytics and charts
 
-Adding feature-importance explanations
+6. Adding feature-importance explanations
 
-Improving the user interface
+7. Improving the user interface
 
-Adding more advanced employee-retention insights
+8. Adding more advanced employee-retention insights
 
 ##AUTHOR
 
 RAGHAV
 
 B.Tech AI&ML
+
+2ND YEAR
