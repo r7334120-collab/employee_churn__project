@@ -163,7 +163,10 @@ Logistic Regression was selected as the final model for deployment
 
 ##DEPLOYMENT-
 The application is deployed using Streamlit Community Cloud and connected to the GitHub repository.
+
+
 ##LIVE DEM0-
+
 employeechurnproject-htxojb33ha2yyxrsffum4e.streamlit.app
 
 ##FUTURE IMPROVEMENTS
