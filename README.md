@@ -141,23 +141,23 @@ gitattributes
 
 ##INSTALLATION
 
-Clone the repository-
+1. Clone the repository-
 
-git clone https://github.com/r7334120-collab/employee_churn_project.git
+ git clone https://github.com/r7334120-collab/employee_churn_project.git
 
-NAVIGATE INTO THE PROJECT DIRECTORY-
+2. NAVIGATE INTO THE PROJECT DIRECTORY-
 
-cd employee_churn_project
+ cd employee_churn_project
 
-INSTALL THE REQUIRED LIBRARIES-
+3. INSTALL THE REQUIRED LIBRARIES-
 
-pip install pandas numpy scikit-learn joblib streamlit
+ pip install pandas numpy scikit-learn joblib streamlit
 
-RUN THE APPLICATION-
+4. RUN THE APPLICATION-
 
-using:
+ using:
 
-streamlit run app.py
+ streamlit run app.py
 
 ##MODEL EVALUATION-
 
