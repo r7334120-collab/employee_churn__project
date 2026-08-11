@@ -99,7 +99,7 @@ The application processes the entered information and returns a prediction along
 
 ##
 
-Technologies Used
+TECHNOLOGIES USED
 
 Python
 
@@ -119,7 +119,7 @@ GitHub
 
 ##
 
-Project Structure
+PROJECT STRUCTURE
 
 text
 
@@ -133,7 +133,7 @@ logistic_model.pkl
 
 scaler.pkl
 
-- feature_columns.pkl
+feature_columns.pkl
 
 README.nd
 
