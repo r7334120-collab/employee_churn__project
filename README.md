@@ -140,20 +140,27 @@ README.nd
 gitattributes
 
 ##INSTALLATION
+
 Clone the repository-
+
 git clone https://github.com/r7334120-collab/employee_churn_project.git
 
 NAVIGATE INTO THE PROJECT DIRECTORY-
+
 cd employee_churn_project
 
 INSTALL THE REQUIRED LIBRARIES-
+
 pip install pandas numpy scikit-learn joblib streamlit
 
 RUN THE APPLICATION-
+
 using:
+
 streamlit run app.py
 
 ##MODEL EVALUATION-
+
 Models were evaluated using:
 ACCURACY
 PRECISION
@@ -162,6 +169,7 @@ Fl Score
 Logistic Regression was selected as the final model for deployment
 
 ##DEPLOYMENT-
+
 The application is deployed using Streamlit Community Cloud and connected to the GitHub repository.
 
 
