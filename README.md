@@ -117,9 +117,7 @@ Spyder
 
 GitHub
 
-##
-
-PROJECT STRUCTURE
+### PROJECT STRUCTURE
 
 text
 
@@ -139,7 +137,7 @@ README.nd
 
 gitattributes
 
-##INSTALLATION
+### INSTALLATION
 
 1. Clone the repository-
 
@@ -159,7 +157,7 @@ gitattributes
 
  streamlit run app.py
 
-##MODEL EVALUATION-
+### MODEL EVALUATION-
 
 Models were evaluated using:
 
@@ -170,16 +168,16 @@ Models were evaluated using:
 
 Logistic Regression was selected as the final model for deployment
 
-##DEPLOYMENT-
+### DEPLOYMENT-
 
 The application is deployed using Streamlit Community Cloud and connected to the GitHub repository.
 
 
-##LIVE DEM0-
+### LIVE DEM0-
 
-employeechurnproject-htxojb33ha2yyxrsffum4e.streamlit.app
+employeechurnproject-htxojb33ha2yyxrsffum4e.streamlit.app/
 
-##FUTURE IMPROVEMENTS
+### FUTURE IMPROVEMENTS
 
 1. Possible improvements include:
 
@@ -197,7 +195,7 @@ employeechurnproject-htxojb33ha2yyxrsffum4e.streamlit.app
 
 8. Adding more advanced employee-retention insights
 
-##AUTHOR
+### AUTHOR
 
 RAGHAV
 
